@@ -7,3 +7,9 @@ In Phase 2 of our Software Engineering project, we focused on developing a compr
 * Front-End Team: Saif Abushanab, Mohamed Ahmed
 * Back-End Framework: React, Bootstrap
 * Front-End Framework: Flask, Microsoft Server SQL
+* The ScrumMaster: Saif Abushanab.
+* the Product Owner: Mohamed Ahmed.
+* The Sprint period is five days.
+* We have a five minutes daily meeting(scrum stand up).
+* Also, we have a review after each sprint.
+     
