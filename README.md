@@ -12,4 +12,9 @@ In Phase 2 of our Software Engineering project, we focused on developing a compr
 * The Sprint period is five days.
 * We have a five minutes daily meeting(scrum stand up).
 * Also, we have a review after each sprint.
+
+
+
+Phase 3:
+we use in frontend react to design a web page containing a sign up if the user don't have an account and login if the user already have an account and backend using flask start with the design of login and sign up and connect with database using pydobc library to show and update information when a user edit or log to the system and add functionality add to cart, forget password, reset password, sign up with google, continue as a guest then connect the frontend with backend. Design the uml class diagrams and sequence diagrams. Show the trello teamwork starts with the idea and what we completed and what is in progress and what is done including the timeline for each step. Including SDS documents with recent updates.
      
